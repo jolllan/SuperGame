@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SuperGame</string>
+    <string name="textview">TextView</string>
+    <string name="saisir_une_valeur_entre_1_et_100">Saisir une valeur entre 1 et 100</string>
+    <string name="saisissez_une_valeur">Saisissez une valeur</string>
+    <string name="DialogBox" />
+</resources>
